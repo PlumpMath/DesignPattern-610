@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Author : of1200
+ * Author : shin
  * Date : 2016/4/8
  */
 public class ConcreteSubject  implements Subject{

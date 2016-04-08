@@ -7,7 +7,7 @@ import com.shin.pattern.observer.Observer;
 import org.junit.Test;
 
 /**
- * Author : of1200
+ * Author : shin
  * Date : 2016/4/8
  * Desc:
  */
